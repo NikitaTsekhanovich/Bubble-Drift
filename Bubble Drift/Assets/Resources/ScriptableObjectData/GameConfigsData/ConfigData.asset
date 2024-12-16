@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04375b466b0111646b1e879d713c67f3, type: 3}
+  m_Name: ConfigData
+  m_EditorClassIdentifier: 
+  _fishSpawnPoints:
+  - {fileID: 7055968341207468762, guid: 435aa78c9e2c4d64eaa1c3d07987cc2b, type: 3}
+  - {fileID: 5323994909064726328, guid: 826fd8ffa56323844b0e18baeb4a6bc0, type: 3}
+  - {fileID: 6255938346605289705, guid: 93a851ef42869d249a13c221ca84e6cb, type: 3}
+  - {fileID: 2799798399216289935, guid: 9aa05b3493a8fe444a74aea33a8827cf, type: 3}
+  - {fileID: 6760687649058029308, guid: 882394048b6feea41a773a887c8c26c8, type: 3}
+  - {fileID: 3640280858268317357, guid: 42c92ac9286ec9d4a81b30e8163fd467, type: 3}
+  - {fileID: 7385969856929756712, guid: 83f9b256f0174e14c87cb5a58bcf7ceb, type: 3}
+  - {fileID: 612860319993455800, guid: 4524f190330485845904dfd9bae842d5, type: 3}

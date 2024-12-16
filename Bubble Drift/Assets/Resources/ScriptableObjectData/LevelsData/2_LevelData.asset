@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553805ebf86b6d84986689a77a3c5ef2, type: 3}
+  m_Name: 2_LevelData
+  m_EditorClassIdentifier: 
+  _index: 2
+  _gameWaves:
+  - <WaveDuration>k__BackingField: 10
+    <NumberFish>k__BackingField: 3
+    <DelaySpawn>k__BackingField: 2
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 474fafa8b60ed0245885c8da4b9291db, type: 3}
+  - <WaveDuration>k__BackingField: 12
+    <NumberFish>k__BackingField: 3
+    <DelaySpawn>k__BackingField: 3
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 474fafa8b60ed0245885c8da4b9291db, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 4
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 474fafa8b60ed0245885c8da4b9291db, type: 3}
+  - <WaveDuration>k__BackingField: 18
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 474fafa8b60ed0245885c8da4b9291db, type: 3}
+    - {fileID: 711709146612827145, guid: e1c73dbf0d1a65b429b7590a839e95d6, type: 3}

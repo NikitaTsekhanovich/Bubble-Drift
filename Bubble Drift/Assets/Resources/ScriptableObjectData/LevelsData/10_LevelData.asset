@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553805ebf86b6d84986689a77a3c5ef2, type: 3}
+  m_Name: 10_LevelData
+  m_EditorClassIdentifier: 
+  _index: 10
+  _gameWaves:
+  - <WaveDuration>k__BackingField: 12
+    <NumberFish>k__BackingField: 3
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 4
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 4
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 3
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+  - <WaveDuration>k__BackingField: 20
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+    - {fileID: 711709146612827145, guid: e471f434ea911ba408314e01f4c21619, type: 3}
+  - <WaveDuration>k__BackingField: 22
+    <NumberFish>k__BackingField: 7
+    <DelaySpawn>k__BackingField: 3
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 4df48eef99d13494cb2a28203b378b63, type: 3}
+    - {fileID: 711709146612827145, guid: 16a91547989e8674b852b0e5e1564f29, type: 3}

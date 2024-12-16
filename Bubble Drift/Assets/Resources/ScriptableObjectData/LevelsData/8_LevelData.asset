@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553805ebf86b6d84986689a77a3c5ef2, type: 3}
+  m_Name: 8_LevelData
+  m_EditorClassIdentifier: 
+  _index: 8
+  _gameWaves:
+  - <WaveDuration>k__BackingField: 10
+    <NumberFish>k__BackingField: 3
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 4
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+  - <WaveDuration>k__BackingField: 14
+    <NumberFish>k__BackingField: 4
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+  - <WaveDuration>k__BackingField: 19
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+    - {fileID: 711709146612827145, guid: e4b0965a9d8665d49980744aa924ae16, type: 3}
+    - {fileID: 4649749818932389653, guid: 21827e557e6e6fd4cb2b8121fade00f8, type: 3}
+  - <WaveDuration>k__BackingField: 19
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 4
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+    - {fileID: 711709146612827145, guid: e471f434ea911ba408314e01f4c21619, type: 3}
+  - <WaveDuration>k__BackingField: 23
+    <NumberFish>k__BackingField: 5
+    <DelaySpawn>k__BackingField: 5
+    <Fishes>k__BackingField:
+    - {fileID: 711709146612827145, guid: 391f8d23fff1161438bfa6060642f50d, type: 3}
+    - {fileID: 711709146612827145, guid: 03dceb523e7a0ae4db2d72a95352f112, type: 3}
