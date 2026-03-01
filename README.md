@@ -1,9 +1,5 @@
 # Bubble-Drift
 
-# Описание 
-
-# Особенности
-
 # Скриншоты
 ![Image Sequence_008_0000](https://github.com/user-attachments/assets/2eaae5b9-dd56-4697-a4b8-be9b386952c1)
 ![Image Sequence_006_0000](https://github.com/user-attachments/assets/697d83de-2097-48c3-9534-d3e03c801cf0)
